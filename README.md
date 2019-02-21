@@ -1,1 +1,1 @@
-# WP-Scanner
+# Usage php wp.php
